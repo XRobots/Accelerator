@@ -1,3 +1,3 @@
 # Accelerator
 
-CAD and Code for my high voltag ball accelerator
+CAD and Code for my high voltage ball accelerator
